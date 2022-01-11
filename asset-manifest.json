@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paragraph-generator/static/css/main.33f430bf.css",
+    "main.js": "/paragraph-generator/static/js/main.15d7c46f.js",
+    "static/js/787.c22bafd1.chunk.js": "/paragraph-generator/static/js/787.c22bafd1.chunk.js",
+    "index.html": "/paragraph-generator/index.html",
+    "main.33f430bf.css.map": "/paragraph-generator/static/css/main.33f430bf.css.map",
+    "main.15d7c46f.js.map": "/paragraph-generator/static/js/main.15d7c46f.js.map",
+    "787.c22bafd1.chunk.js.map": "/paragraph-generator/static/js/787.c22bafd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f430bf.css",
+    "static/js/main.15d7c46f.js"
+  ]
+}
